@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="15-Struts2-DOasJB">
+        <wb-resource deploy-path="/" source-path="/WebContent"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="15-Struts2-DOasJB"/>
+        <property name="java-output-path" value="/15-Struts2-DOasJB/build/classes"/>
+    </wb-module>
+</project-modules>
